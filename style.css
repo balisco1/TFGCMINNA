@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: lightgray;
+}
+
+nav {
+    background-color: navy;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+main {
+    padding: 20px;
+}
